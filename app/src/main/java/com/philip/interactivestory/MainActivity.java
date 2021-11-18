@@ -39,5 +39,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("name", name);
         startActivity(intent);
 
+        // Hi github
+
     }
 }
